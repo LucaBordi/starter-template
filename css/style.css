@@ -2,17 +2,11 @@
 #titolo {
   color: yellow;
   background-color: black;
-  padding: 15px;
+  padding: 10px;
   text-align: center;
 } 
 </style>
-<h1 id="titolo">LA CITTA' DI ROSA'</h1>
-
-
-h1 {
-	color: yellow;
-	background-color: black;
-}
+<h1 #titolo">LA CITTA' DI ROSA'</h1>
 
 .bordo {
 	border: 2px solid #000000;
