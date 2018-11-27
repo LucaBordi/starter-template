@@ -1,13 +1,19 @@
-<style>
-#titolo {
-  color: yellow;
-  background-color: black;
-  padding: 10px;
-  text-align: center;
-} 
-</style>
-<h1 #titolo">LA CITTA' DI ROSA'</h1>
+h1 {
+    text-align: center;
+}
+h1 {
+    font-size: 20px;
+}
+h1 {
+	color: yellow ;
+	background-color: black ; 
+}
+
 
 .bordo {
 	border: 2px solid #000000;
+}
+
+.img {
+
 }
